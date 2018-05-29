@@ -1,18 +1,11 @@
-# location-select
+## Vue组件-极简的地址选择器
 
-> A Vue.js project
+- 使用Demo前先把mock服务跑一下，因为模拟了后台传输数据。地址信息存放在`/mock/site.json`中。
 
-## Build Setup
+- 当然你需要自己结合自己后台提供的的地址信息作出一些修改
 
-``` bash
-# install dependencies
-npm install
+- 功能极简，需要新功能可自行添加。依赖方面只有Vue
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Demo图
+![demo5.gif](https://upload-images.jianshu.io/upload_images/10414430-e066eee5de54cb4e.gif?imageMogr2/auto-orient/strip)
